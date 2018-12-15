@@ -7,6 +7,7 @@ estabelecer e assim poder mim ajudar a criar a Criptomoeda WilsonICO. Obrigado.
 Peço a ajuda para a preparação dos código abaixo e afins.
 Criação do site em Html & Css da Criptomoeda WilsonIco.
 Códigos fontes da criptomoeda Wilson Ico em funcionamente pronta pra minerar. Dentre outro.
+Includo script de mineração da criptomoeda WilsonIco.
 E também por favor copilar possiveis códigos que com certeza ajudará muito no funcionamento da Criptomoeda WilsonIco.
 Peço a ajuda de todos.
 
